@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1c46b859-88f1-49bb-818d-af36ed3a9599" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DashBoard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/celery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/env.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/CallBoard/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/migrations/0002_alter_announcement_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/migrations/0003_alter_announcement_text_alter_announcement_title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/migrations/0004_alter_announcement_text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/templatetags/custom_tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/board/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/media/uploads/2024/01/16/cyberpunk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/media/uploads/2024/01/16/cyberpunk_QRIIggr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_LZy9L3P.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_LZy9L3P_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_YylndyU.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_YylndyU_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_jiwKN8O.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_jiwKN8O_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/pillow/uploads/2024/01/16/cyberpunk_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/autocomplete.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/changelists.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/dark_mode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/nav_sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/responsive_rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/vendor/select2/LICENSE-SELECT2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/vendor/select2/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/vendor/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/calendar-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/gis/move_vertex_off.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/gis/move_vertex_on.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-addlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-alert.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-calendar.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-changelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-clock.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-deletelink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-no.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-unknown-alt.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-unknown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-viewlink.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/icon-yes.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/inline-delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/selector-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/sorting-icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/tooltag-add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/img/tooltag-arrowright.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/SelectBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/SelectFilter2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/admin/DateTimeShortcuts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/admin/RelatedObjectLookups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/autocomplete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/calendar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/cancel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/change_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/filters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/inlines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/jquery.init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/nav_sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/popup_response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/prepopulate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/prepopulate_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/urlify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/af.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/az.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/bg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/bn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/bs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ca.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/cs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/de.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/dsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/el.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/es.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/et.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/eu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/fa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/fi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/fr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/gl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/he.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/hi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/hr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/hsb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/hu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/hy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/id.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/is.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/it.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ja.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ka.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/km.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ko.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/lt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/lv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/mk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/nb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ne.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/nl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/pl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/pt-BR.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/pt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/ru.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/sk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/sl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/sq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/sr-Cyrl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/sv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/th.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/tk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/tr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/uk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/vi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/zh-CN.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/i18n/zh-TW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/select2.full.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/xregexp/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/static/admin/js/vendor/xregexp/xregexp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/base_entrance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/base_manage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/base_manage_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/base_manage_password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/complete_logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/complete_signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/account_already_exists_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/account_already_exists_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/announce_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/base_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/email_confirmation_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/email_confirmation_signup_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/email_confirmation_signup_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/email_confirmation_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/password_reset_key_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/password_reset_key_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/respond_confirmed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/respond_content.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/unknown_account_message.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/email/unknown_account_subject.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/invalid_code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/logout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/cannot_delete_primary_email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/email_confirmation_failed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/email_confirmation_sent.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/email_confirmed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/email_deleted.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/logged_in.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/logged_out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/password_changed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/password_set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/primary_email_set.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/messages/unverified_primary_email.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/password_reset.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/snippets/already_logged_in.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/account/snippets/warn_no_email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/alert.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/badge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/field.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/fields.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/h1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/h2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/img.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/panel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/provider.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/elements/provider_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/layouts/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/layouts/entrance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/allauth/layouts/manage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/announcement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/announcement_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/announcement_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/announcement_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/announcements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/announcements_in_category_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/category_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/respond.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/respond_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/responds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/successful.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/successful_announcement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/successful_respond.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CallBoard/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2bgJel3BKiYndyWvMS06r0l8WTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Геннадий и Светлана/Desktop/DashBoard"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Геннадий и Светлана\Desktop\DashBoard" />
+      <recent name="C:\Users\Геннадий и Светлана\Desktop\DashBoard\CallBoard\templates" />
+      <recent name="C:\Users\Геннадий и Светлана\Desktop\DashBoard\CallBoard\templates\allauth\layouts" />
+      <recent name="C:\Users\Геннадий и Светлана\Desktop\DashBoard\CallBoard\templates\allauth\elements" />
+      <recent name="C:\Users\Геннадий и Светлана\Desktop\DashBoard\CallBoard\templates\account" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c46b859-88f1-49bb-818d-af36ed3a9599" name="Changes" comment="" />
+      <created>1706630886949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706630886949</updated>
+    </task>
+    <servers />
+  </component>
+</project>

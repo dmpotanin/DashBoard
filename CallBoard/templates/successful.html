@@ -1,0 +1,13 @@
+{% extends 'default.html' %}
+
+{% block title %}
+    {% if model == "Announcement" %}
+        <h2 style="text-align: center">Ваше объявление успешно добавлено !</h2>
+    {% else %}
+        <h2 style="text-align: center">Ваш отклик отправлен !</h2>
+    {% endif %}
+    <hr>
+    <a href="http://127.0.0.1:8000/announcements/" style="padding-left: 700px">
+        >>> Вернуться к просмотру объявлений <<<
+    </a>
+{% endblock title %}
